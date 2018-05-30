@@ -4,8 +4,8 @@ import requests, random, os
 
 # Declare
 payload = {
-    'loginfmt': "jckhendrix@gmail.com",
-    'passwd': "VY65224q$"
+    'loginfmt': "EMAIL OR LOGIN HERE",
+    'passwd': "PASSWORD HERE"
 }
 url_login = "https://login.live.com/"
 url_search = "http://www.bing.com"
